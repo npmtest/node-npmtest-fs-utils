@@ -1,6 +1,6 @@
 # npmtest-fs-utils
 
-#### test coverage for  [fs-utils (v0.7.0)](https://github.com/assemble/fs-utils)  [![npm package](https://img.shields.io/npm/v/npmtest-fs-utils.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-fs-utils) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-fs-utils.svg)](https://travis-ci.org/npmtest/node-npmtest-fs-utils)
+#### basic test coverage for  [fs-utils (v0.7.0)](https://github.com/assemble/fs-utils)  [![npm package](https://img.shields.io/npm/v/npmtest-fs-utils.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-fs-utils) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-fs-utils.svg)](https://travis-ci.org/npmtest/node-npmtest-fs-utils)
 
 #### fs extras and utilities to extend the node.js file system module. Used in Assemble and many other projects.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-fs-utils/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-fs-utils/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-fs-utils/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-fs-utils/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-fs-utils/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-fs-utils/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-fs-utils/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-fs-utils/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-fs-utils/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-fs-utils/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-fs-utils/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-fs-utils/build/coverage.html/index.html)
 
@@ -122,7 +122,8 @@
             ]
         }
     },
-    "version": "0.7.0"
+    "version": "0.7.0",
+    "bin": {}
 }
 ```
 
